@@ -1,0 +1,29 @@
+====================================================
+RELATÓRIO OFICIAL: TEMA 03 - INTRODUÇÃO AO HTML
+Estudante: Luiz Davy Santana de Lacerda
+Turma: DS
+Data/Hora: 19/10/2026, 14:04:57
+Nota: 15 de 15 (100%) - 🏆 Excelente! Domínio pleno.
+----------------------------------------------------
+DESEMPENHO POR TEMA:
+Estrutura e tags: 7/7
+Semântica HTML5: 4/4
+Links e protocolos: 4/4
+----------------------------------------------------
+DETALHAMENTO:
+Q1: [OK] Alternativa (a)
+Q2: [OK] Alternativa (b)
+Q3: [OK] Alternativa (b)
+Q4: [OK] Alternativa (c)
+Q5: [OK] Alternativa (a)
+Q6: [OK] Alternativa (b)
+Q7: [OK] Alternativa (b)
+Q8: [OK] Alternativa (c)
+Q9: [OK] Alternativa (a)
+Q10: [OK] Alternativa (c)
+Q11: [OK] Alternativa (a)
+Q12: [OK] Alternativa (b)
+Q13: [OK] Alternativa (b)
+Q14: [OK] Alternativa (b)
+Q15: [OK] Alternativa (b)
+====================================================
